@@ -47,7 +47,7 @@ def main():
                 new_seg = t.Turtle()
                 new_seg.speed(0)
                 new_seg.shape("square")
-                new_seg.color("orange")
+                new_seg.color("purple")
                 new_seg.penup()
                 seg.append(new_seg)
                 
